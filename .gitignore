@@ -1,0 +1,8 @@
+# Python-окружение тюнера PID (создаётся локально, в репозиторий не идёт)
+.venv/
+.python/
+# кэш matplotlib (шрифты)
+ESP32_Components/robot_koeff_finder/.cache/
+__pycache__/
+*.pyc
+.DS_Store
